@@ -2,4 +2,4 @@
 Tutorial repository
 
 
-Hello world! This is a tutorial to learn how to use GitHub.
+Hello world! This is a tutorial to learn how to use branches on GitHub.
